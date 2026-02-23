@@ -13,4 +13,7 @@ For_pres.ipynb
 
 .DS_Store
 
+# ignoring .Rapp.history in Question01
+
+Final_Exam/Question01/.Rapp.history
 
