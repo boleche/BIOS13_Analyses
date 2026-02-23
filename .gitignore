@@ -4,3 +4,13 @@ For_pres.ipynb
 # ignore any images / screen grabs used for adding to the presentation/reports
 
 *.png
+
+# ignore any pdfs
+
+*.pdf
+
+# ignoring .DS_Store
+
+.DS_Store
+
+
