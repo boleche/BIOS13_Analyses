@@ -1,0 +1,6 @@
+# ignore the jupyter notebook file used for presentation generation
+For_pres.ipynb
+
+# ignore any images / screen grabs used for adding to the presentation/reports
+
+*.png
